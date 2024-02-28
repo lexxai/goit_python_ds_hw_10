@@ -1,4 +1,4 @@
-# Модуль 10. 
+# Модуль 10. Згорткові нейронні мережі. Tensorflow. Keras.
 
 *З циклу [домашніх завдань Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
 
