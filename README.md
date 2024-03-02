@@ -27,4 +27,4 @@
 - [Colab (goit_python_ds_hw_10.ipynb)](https://drive.google.com/file/d/1UZ0mGqIN2Rqcs3OxCcwLOTiLSasm5oT8/view?usp=sharing)
 - [models.zip](https://drive.google.com/file/d/1A1bqwSmqWNuChNcpw9SsQm91-AXhxKRZ/view?usp=drive_link)
 
-![va][hw10_va.png]
+![va](hw10_va.png)
