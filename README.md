@@ -24,4 +24,7 @@
 # Результати
 
 - [goit_python_ds_hw_10.ipynb](goit_python_ds_hw_10.ipynb)
-- [Colab (goit_python_ds_hw_10.ipynb)](https://colab.research.google.com/drive/1Y51WHj0bU5pDP7CwcikAjFGHIw8mBhF0?usp=sharing)
+- [Colab (goit_python_ds_hw_10.ipynb)](https://drive.google.com/file/d/1UZ0mGqIN2Rqcs3OxCcwLOTiLSasm5oT8/view?usp=sharing)
+- [models.zip](https://drive.google.com/file/d/1A1bqwSmqWNuChNcpw9SsQm91-AXhxKRZ/view?usp=drive_link)
+
+![va][hw10_va.png]
