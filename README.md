@@ -28,3 +28,42 @@
 - [models.zip](https://drive.google.com/file/d/1A1bqwSmqWNuChNcpw9SsQm91-AXhxKRZ/view?usp=drive_link)
 
 ![va](hw10_va.png)
+
+
+
+
+![Learning of (Model_1)](img_Model_1_ca.png)
+
+![Learning of (Model_2)](img_Model_2_ca.png)
+
+![Learning of (Model_2_s2)](img_Model_2_s2_ca.png)
+
+![Learning of (Model_2_L2_0.001)](img_Model_2_L2_0.001_ca.png)
+
+![Learning of (Model_2_L2_0.05_lr_0.025e)](img_Model_2_L2_0.05_lr_0.025e_ca.png)
+
+![Learning of (Model_2_L1_0.001_B_256)](img_Model_2_L1_0.001_B_256_ca.png)
+
+![Learning of (Model_3)](img_Model_3_ca.png)
+
+![Learning of (Model_4)](img_Model_4_ca.png)
+
+![Learning of (Model_5_VGG16)](img_Model_5_VGG16_ca.png)
+
+![Learning of (Model_6_VGG16)](img_Model_6_VGG16_ca.png)
+
+![Learning of (Model_7_VGG16)](img_Model_7_VGG16_ca.png)
+
+![Learning of (Model_8_VGG16)](img_Model_8_VGG16_ca.png)
+
+![Learning of (Model_9_VGG16)](img_Model_9_VGG16_ca.png)
+
+![Learning of (Model_9_VGG16_SC)](img_Model_9_VGG16_SC_ca.png)
+
+![Learning of (Model_10_VGG16_AL)](img_Model_10_VGG16_AL_ca.png)
+
+![Learning of (Model_2_s2_igen)](img_Model_2_s2_igen_ca.png)
+
+![Learning of (Model_2_s2_igen_c)](img_Model_2_s2_igen_c_ca.png)
+
+
