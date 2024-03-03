@@ -30,6 +30,10 @@
 ## Models compare
 ![va](hw10_va.png)
 
+## Image Predict
+![img_predict](img_predict.png)
+
+
 ## Image Generator
 ![image_genarator](image_genarator.png)
 
