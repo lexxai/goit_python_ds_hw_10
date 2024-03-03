@@ -27,11 +27,14 @@
 - [Colab (goit_python_ds_hw_10.ipynb)](https://drive.google.com/file/d/1UZ0mGqIN2Rqcs3OxCcwLOTiLSasm5oT8/view?usp=sharing)
 - [models.zip](https://drive.google.com/file/d/1A1bqwSmqWNuChNcpw9SsQm91-AXhxKRZ/view?usp=drive_link)
 
+## Models compare
 ![va](hw10_va.png)
 
+## Image Generator
+![image_genarator](image_genarator.png)
 
 
-
+## Learning curves
 ![Learning of (Model_1)](img_Model_1_ca.png)
 
 ![Learning of (Model_2)](img_Model_2_ca.png)
