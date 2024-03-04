@@ -88,6 +88,6 @@
 | Model_7_VGG16 | Model_8_VGG16 | Model_9_VGG16 |
 | <img src="img_Model_9_VGG16_SC_cm.png" alt="Confusion matrix of (Model_9_VGG16_SC)" width="235"> | <img src="img_Model_10_VGG16_AL_cm.png" alt="Confusion matrix of (Model_10_VGG16_AL)" width="235"> | <img src="img_Model_2_s2_igen_cm.png" alt="Confusion matrix of (Model_2_s2_igen)" width="235"> |
 | Model_9_VGG16_SC | Model_10_VGG16_AL | Model_2_s2_igen |
-| <img src="img_Model_2_s2_igen_c_cm.png" alt="Confusion matrix of (Model_2_s2_igen_c)" width="235"> |  |  |
-| Model_2_s2_igen_c |  |  |
+| <img src="img_Model_2_s2_igen_c_cm.png" alt="Confusion matrix of (Model_2_s2_igen_c)" width="235"> | <img src="img_Model_LeNet_5_cm.png" alt="Confusion matrix of (Model_LeNet_5)" width="235"> |  |
+| Model_2_s2_igen_c | Model_LeNet_5 |  |
 
