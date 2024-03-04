@@ -28,6 +28,8 @@
 - [models.zip](https://drive.google.com/file/d/1A1bqwSmqWNuChNcpw9SsQm91-AXhxKRZ/view?usp=drive_link)
 
 ## Models compare
+Total modlels:  18
+
 ![va](img_va.png)
 
 ## Image Predict
@@ -39,8 +41,6 @@
 
 
 ## Learning curves
-
-
 
 
 ![Learning of (Model_1)](img_Model_1_ca.png)
