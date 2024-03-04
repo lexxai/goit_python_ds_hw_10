@@ -39,6 +39,10 @@
 
 
 ## Learning curves
+
+
+
+
 ![Learning of (Model_1)](img_Model_1_ca.png)
 
 ![Learning of (Model_2)](img_Model_2_ca.png)
@@ -72,6 +76,9 @@
 ![Learning of (Model_2_s2_igen)](img_Model_2_s2_igen_ca.png)
 
 ![Learning of (Model_2_s2_igen_c)](img_Model_2_s2_igen_c_ca.png)
+
+![Learning of (Model_LeNet_5)](img_Model_LeNet_5_ca.png)
+
 
 
 ## Confusion matrix
