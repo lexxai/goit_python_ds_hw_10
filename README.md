@@ -32,6 +32,8 @@ Total modlels:  18
 
 ![va](img_va.png)
 
+![img_va_sorted](img_va_sorted.png)
+
 ## Image Predict
 ![img_predict](img_predict.png)
 
