@@ -34,6 +34,9 @@ Total modlels:  20
 
 ![img_va_sorted](img_va_sorted.png)
 
+## RGB Data preparaton for VGG16 models
+![img_rgb_data](img_rgb_data.png)
+
 ## Image Predict
 ![img_predict](img_predict.png)
 
