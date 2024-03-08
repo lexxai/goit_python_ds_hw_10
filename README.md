@@ -73,12 +73,8 @@ Total modlels:  22
 ## RGB Data preparaton for VGG16 models
 ![img_rgb_data](img_rgb_data.png)
 
-## Image Predict
-![img_predict](img_predict.png)
+![layer_resize_nn](layer_resize_nn.png)
 
-
-## Image Generator
-![image_genarator](image_genarator.png)
 
 
 ## Learning curves
@@ -128,10 +124,6 @@ Total modlels:  22
 ![Learning of (Model_11_igen_f)](img_Model_11_igen_f_ca.png)
 
 
-
-
-
-
 ## Confusion matrix
 
 | Model  | Model  | Model  |
@@ -152,6 +144,15 @@ Total modlels:  22
 | Model_2_s2_igen_c | Model_2_s2_igen_only | Model_11_igen |
 | <img src="img_Model_11_igen_f_cm.png" alt="Confusion matrix of (Model_11_igen_f)" width="235"> |  |  |
 | Model_11_igen_f |  |  |
+
+
+## Image Predict
+![img_predict](img_predict.png)
+
+
+## Image Generator
+![image_genarator](image_genarator.png)
+
 
 
 
