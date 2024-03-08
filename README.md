@@ -28,7 +28,7 @@
 - [models.zip](https://drive.google.com/file/d/1A1bqwSmqWNuChNcpw9SsQm91-AXhxKRZ/view?usp=drive_link)
 
 ## Models compare
-Total modlels:  20
+Total modlels:  22
 
 ![va](img_va.png)
 
@@ -79,13 +79,18 @@ Total modlels:  20
 
 ![Learning of (Model_LeNet_5)](img_Model_LeNet_5_ca.png)
 
+![Learning of (Model_11)](img_Model_11_ca.png)
+
 ![Learning of (Model_2_s2_igen)](img_Model_2_s2_igen_ca.png)
 
 ![Learning of (Model_2_s2_igen_c)](img_Model_2_s2_igen_c_ca.png)
 
 ![Learning of (Model_2_s2_igen_only)](img_Model_2_s2_igen_only_ca.png)
 
-![Learning of (Model_11)](img_Model_11_ca.png)
+![Learning of (Model_11_igen)](img_Model_11_igen_ca.png)
+
+![Learning of (Model_11_igen_f)](img_Model_11_igen_f_ca.png)
+
 
 
 
@@ -99,16 +104,19 @@ Total modlels:  20
 | Model_1 | Model_2 | Model_2_s2 |
 | <img src="img_Model_2_L2_0.001_cm.png" alt="Confusion matrix of (Model_2_L2_0.001)" width="235"> | <img src="img_Model_2_L2_0.05_lr_0.025e_cm.png" alt="Confusion matrix of (Model_2_L2_0.05_lr_0.025e)" width="235"> | <img src="img_Model_2_L1_0.001_B_256_cm.png" alt="Confusion matrix of (Model_2_L1_0.001_B_256)" width="235"> |
 | Model_2_L2_0.001 | Model_2_L2_0.05_lr_0.025e | Model_2_L1_0.001_B_256 |
-| <img src="img_Model_3_cm.png" alt="Confusion matrix of (Model_3)" width="235"> | <img src="img_Model_4_cm.png" alt="Confusion matrix of (Model_4)" width="235"> | <img src="img_Model_6_VGG16_cm.png" alt="Confusion matrix of (Model_6_VGG16)" width="235"> |
-| Model_3 | Model_4 | Model_6_VGG16 |
-| <img src="img_Model_7_VGG16_cm.png" alt="Confusion matrix of (Model_7_VGG16)" width="235"> | <img src="img_Model_8_VGG16_cm.png" alt="Confusion matrix of (Model_8_VGG16)" width="235"> | <img src="img_Model_9_VGG16_cm.png" alt="Confusion matrix of (Model_9_VGG16)" width="235"> |
-| Model_7_VGG16 | Model_8_VGG16 | Model_9_VGG16 |
-| <img src="img_Model_9_VGG16_SC_cm.png" alt="Confusion matrix of (Model_9_VGG16_SC)" width="235"> | <img src="img_Model_10_VGG16_AL_cm.png" alt="Confusion matrix of (Model_10_VGG16_AL)" width="235"> | <img src="img_Model_LeNet_5_cm.png" alt="Confusion matrix of (Model_LeNet_5)" width="235"> |
-| Model_9_VGG16_SC | Model_10_VGG16_AL | Model_LeNet_5 |
-| <img src="img_Model_2_s2_igen_cm.png" alt="Confusion matrix of (Model_2_s2_igen)" width="235"> | <img src="img_Model_2_s2_igen_c_cm.png" alt="Confusion matrix of (Model_2_s2_igen_c)" width="235"> | <img src="img_Model_2_s2_igen_only_cm.png" alt="Confusion matrix of (Model_2_s2_igen_only)" width="235"> |
-| Model_2_s2_igen | Model_2_s2_igen_c | Model_2_s2_igen_only |
-| <img src="img_Model_11_cm.png" alt="Confusion matrix of (Model_11)" width="235"> |  |  |
-| Model_11 |  |  |
+| <img src="img_Model_3_cm.png" alt="Confusion matrix of (Model_3)" width="235"> | <img src="img_Model_4_cm.png" alt="Confusion matrix of (Model_4)" width="235"> | <img src="img_Model_5_VGG16_cm.png" alt="Confusion matrix of (Model_5_VGG16)" width="235"> |
+| Model_3 | Model_4 | Model_5_VGG16 |
+| <img src="img_Model_6_VGG16_cm.png" alt="Confusion matrix of (Model_6_VGG16)" width="235"> | <img src="img_Model_7_VGG16_cm.png" alt="Confusion matrix of (Model_7_VGG16)" width="235"> | <img src="img_Model_8_VGG16_cm.png" alt="Confusion matrix of (Model_8_VGG16)" width="235"> |
+| Model_6_VGG16 | Model_7_VGG16 | Model_8_VGG16 |
+| <img src="img_Model_9_VGG16_cm.png" alt="Confusion matrix of (Model_9_VGG16)" width="235"> | <img src="img_Model_9_VGG16_SC_cm.png" alt="Confusion matrix of (Model_9_VGG16_SC)" width="235"> | <img src="img_Model_10_VGG16_AL_cm.png" alt="Confusion matrix of (Model_10_VGG16_AL)" width="235"> |
+| Model_9_VGG16 | Model_9_VGG16_SC | Model_10_VGG16_AL |
+| <img src="img_Model_LeNet_5_cm.png" alt="Confusion matrix of (Model_LeNet_5)" width="235"> | <img src="img_Model_11_cm.png" alt="Confusion matrix of (Model_11)" width="235"> | <img src="img_Model_2_s2_igen_cm.png" alt="Confusion matrix of (Model_2_s2_igen)" width="235"> |
+| Model_LeNet_5 | Model_11 | Model_2_s2_igen |
+| <img src="img_Model_2_s2_igen_c_cm.png" alt="Confusion matrix of (Model_2_s2_igen_c)" width="235"> | <img src="img_Model_2_s2_igen_only_cm.png" alt="Confusion matrix of (Model_2_s2_igen_only)" width="235"> | <img src="img_Model_11_igen_cm.png" alt="Confusion matrix of (Model_11_igen)" width="235"> |
+| Model_2_s2_igen_c | Model_2_s2_igen_only | Model_11_igen |
+| <img src="img_Model_11_igen_f_cm.png" alt="Confusion matrix of (Model_11_igen_f)" width="235"> |  |  |
+| Model_11_igen_f |  |  |
+
 
 
 
